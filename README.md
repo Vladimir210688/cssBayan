@@ -1,1 +1,1 @@
-https://Vladimir210688.github.io/cssBayan/cssBayan/index.html
+https://Vladimir210688.github.io/cssBayan/index.html
